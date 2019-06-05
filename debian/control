@@ -9,7 +9,7 @@ Homepage: https://www.olivevideoeditor.org/
 
 Package: olive-editor
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, ffmpeg, frei0r-plugins
+Depends: ${shlibs:Depends}, ${misc:Depends}, ffmpeg, frei0r-plugins, libqt5multimedia5-plugins
 Description: Professional open-source NLE video editor
  This is a free non-linear video editor. It provides sensible cutting tools,
  and basic FX animation. There are solic color and title generators, for cutting
