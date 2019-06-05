@@ -1,3 +1,9 @@
+olive-editor (20190503-1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+
+ -- Zhong Jianxin <azuwis@gmail.com>  Wed, 05 Jun 2019 10:46:50 +0800
+
 olive-editor (20181223-2) unstable; urgency=medium
 
   * debian/control:
