@@ -17,6 +17,6 @@ export QT_SELECT=qt5
 	dh $@
 
 override_dh_auto_configure:
-	qmake -makefile PREFIX=$(shell pwd)/olive/usr olive.pro
+	qmake -makefile PREFIX=/usr olive.pro
 	sed -i "s,-DQT_NO_DEBUG,,g" Makefile
 	sed -i 's/^CXXFLAGS.*/& -g/g' Makefile
