@@ -1,3 +1,0 @@
-#!/usr/bin/dh-exec
-Olive => usr/bin/olive-editor
-debian/olive-editor.desktop usr/share/applications
