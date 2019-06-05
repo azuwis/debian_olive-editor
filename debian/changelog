@@ -1,0 +1,28 @@
+olive-editor (20181223-2) unstable; urgency=medium
+
+  * debian/control:
+    - drop conflicts/replaces. (Closes: #921729)
+    - improve long description.
+
+ -- Gürkan Myczko <gurkan@phys.ethz.ch>  Mon, 25 Feb 2019 10:24:30 +0100
+
+olive-editor (20181223-1) unstable; urgency=medium
+
+  * debian/control: add optional frei0or plugins.
+  * Rename source and binary package name to olive-editor.
+  * Add to Multimedia team.
+
+ -- Gürkan Myczko <gurkan@phys.ethz.ch>  Thu, 03 Jan 2019 06:54:45 +0100
+
+olive (20181223-1) unstable; urgency=medium
+
+  * New upstream version.
+  * debian/copyright: complete attribution. (Closes: #917300)
+
+ -- Gürkan Myczko <gurkan@phys.ethz.ch>  Wed, 26 Dec 2018 14:41:24 +0100
+
+olive (20181130-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #917170)
+
+ -- Gürkan Myczko <gurkan@phys.ethz.ch>  Fri, 21 Dec 2018 12:02:12 +0100
