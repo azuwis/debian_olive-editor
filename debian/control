@@ -3,7 +3,7 @@ Section: video
 Priority: optional
 Maintainer: Debian Multimedia Maintainers <pkg-multimedia-maintainers@lists.alioth.debian.org>
 Uploaders: Gürkan Myczko <gurkan@phys.ethz.ch>
-Build-Depends: debhelper (>= 11), qtmultimedia5-dev, libqt5multimedia5-plugins, libavfilter-dev, dh-exec, libqt5opengl5-dev, frei0r-plugins-dev
+Build-Depends: debhelper (>= 11), qtmultimedia5-dev, libqt5multimedia5-plugins, libavfilter-dev, dh-exec, libqt5opengl5-dev, frei0r-plugins-dev, libqt5svg5-dev
 Standards-Version: 4.2.1
 Homepage: https://www.olivevideoeditor.org/
 
